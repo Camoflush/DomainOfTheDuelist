@@ -21,7 +21,7 @@
             </div>
             <div class="filters">
                 <input type="text" id="nameFilter" placeholder="Filter by card name">
-                <input type="text" id="codeFilter" placeholder="Filter by card id">
+                <input type="text" id="attributeFilter" placeholder="Filter by card attribute">
                 <input type="text" id="keywordFilter" placeholder="Filter by keyword">
                 <input type="text" id="typeFilter" placeholder="Filter by types">
             </div>
@@ -203,7 +203,7 @@
 
         function applyFilters() {
             const nameFilter = document.getElementById('nameFilter').value.toLowerCase();
-            const codeFilter = document.getElementById('codeFilter').value.toLowerCase();
+            const attributeFilter = document.getElementById('attributeFilter').value.toLowerCase();
             const keywordFilter = document.getElementById('keywordFilter').value.toLowerCase();
             const typeFilter = document.getElementById('typeFilter').value.toLowerCase();
             const setFilter = document.getElementById('setFilter').value;
@@ -211,7 +211,7 @@
 
             filteredCards = cardsData.filter(card => {
                 return card.name.toLowerCase().includes(nameFilter) &&
-                    card.cardid.toLowerCase().includes(codeFilter) &&
+                    card.cardAttribute.toLowerCase().includes(attributeFilter) &&
                     card.keyword.toLowerCase().includes(keywordFilter) &&
                     card.types.toLowerCase().includes(typeFilter) &&
                     (!setFilter || card.set === setFilter) &&
@@ -589,7 +589,7 @@ function renderDeck() {
 
         // Filter listeners
         document.getElementById('nameFilter').addEventListener('input', applyFilters);
-        document.getElementById('codeFilter').addEventListener('input', applyFilters);
+        document.getElementById('attributeFilter').addEventListener('input', applyFilters);
         document.getElementById('keywordFilter').addEventListener('input', applyFilters);
         document.getElementById('typeFilter').addEventListener('input', applyFilters);
         document.getElementById('setFilter').addEventListener('change', applyFilters);
