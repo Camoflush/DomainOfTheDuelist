@@ -2,13 +2,15 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
-    background-color: #f0f0f0;
+    background: url('./style_image/hieroglyphics panel.png') no-repeat center center fixed;
+  background-size: cover;
 }
 .container {
     display: flex;
     gap: 20px;
     max-width: 1600px;
     margin: 0 auto;
+	background-color: rgba(255, 255, 255, 0.2);
 }
 .cards-container {
     flex: 2;
@@ -16,6 +18,7 @@ body {
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+	background-color: rgba(255, 255, 255, 0.5);
 }
 .deck-container {
     flex: 1;
@@ -25,37 +28,43 @@ body {
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     /*max-height: 80vh;*/
     overflow-y: auto;
+	background-color: rgba(255, 255, 255, 0.5);
 }
 .filters {
     margin-bottom: 20px;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 10px;
+	background-color: rgba(255, 255, 255, 0.5);
 }
 .filters input { 
     padding: 8px;
     border: 1px solid #ddd;
     border-radius: 4px;
     width: 90%;
+	
 }
 .filters select {
     padding: 8px;
     border: 1px solid #ddd;
     border-radius: 4px;
     width: 96%;
+	
 }
 .card-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 15px;
+	
 }
 .card {
-    border: 1px solid #ddd;
+    border: 2px solid rgba(0, 0, 0, 0.4);
     border-radius: 8px;
     padding: 10px;
     text-align: center;
     cursor: pointer;
     transition: transform 0.2s;
+	
 }
 .card:hover {
     transform: scale(1.05);
@@ -76,6 +85,35 @@ body {
     margin-top: 1px;
     font-style: italic;
     font-size: 0.8em;
+}
+.cost-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+.cost-container .cost-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+
+.cost-container .cost-value {
+  margin-left: 5px;
+}
+.deck-cost {
+  margin-top: 5px;
+  padding: 5px;
+  background-color: rgba(255,255,255,0.5);
+  border-radius: 2px;
+  font-weight: bold;
+  color: #333;
+}
+.deck-cost .cost-icon {
+  width: 15px;
+  height: 15px;
+  margin-right: 2px;
 }
 .deck-card {
     display: flex;
