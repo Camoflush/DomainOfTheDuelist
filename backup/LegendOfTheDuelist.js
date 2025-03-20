@@ -10,8 +10,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Reach Female gain",
             "cardcost": "37",
-            "cardAttribute": "Illusion",
-            "restriction": "Unlimited"
+            "cardAttribute": "Illusion"
         },
         {
             "name": "Harpiey Lady Sisters",
@@ -23,8 +22,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Fly Female",
             "cardcost": "0",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wind"
         },
         {
             "name": "7 Completed",
@@ -36,8 +34,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP",
             "cardcost": "15",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Acid Rain",
@@ -49,8 +46,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Destroy Machine",
             "cardcost": "35",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Acid Trap Hole",
@@ -62,8 +58,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "TRIGGER Destroy",
             "cardcost": "25",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "Trap"
         },
         {
             "name": "Air Eater",
@@ -75,8 +70,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly WIND",
             "cardcost": "37",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wind"
         },
         {
             "name": "Akihiron",
@@ -88,8 +82,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Aquatic Change",
             "cardcost": "31",
-            "cardAttribute": "Water",
-            "restriction": "Unlimited"
+            "cardAttribute": "Water"
         },
         {
             "name": "Alinsection",
@@ -101,8 +94,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Terrain",
             "cardcost": "17",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Ancient Elf",
@@ -114,8 +106,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Female Elf",
             "cardcost": "27",
-            "cardAttribute": "Light",
-            "restriction": "Unlimited"
+            "cardAttribute": "Light"
         },
         {
             "name": "Ancient Jar",
@@ -127,8 +118,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Draw",
             "cardcost": "6",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Ancient Lizard Warrior",
@@ -140,8 +130,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land twice",
             "cardcost": "30",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Ancient Sacred Wyvern",
@@ -153,8 +142,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Fly Airborn",
             "cardcost": "0",
-            "cardAttribute": "Light",
-            "restriction": "Unlimited"
+            "cardAttribute": "Light"
         },
         {
             "name": "Ancient Sorcerer",
@@ -166,8 +154,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Attribute",
             "cardcost": "23",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Ancient Telescope",
@@ -179,8 +166,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Deck",
             "cardcost": "5",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Ansatsu",
@@ -192,8 +178,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Male Hidden",
             "cardcost": "29",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Apollousa, Bow of the Goddess",
@@ -205,8 +190,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Land Reach Female Deathtouch",
             "cardcost": "0",
-            "cardAttribute": "Neutral",
-            "restriction": "Unlimited"
+            "cardAttribute": "Neutral"
         },
         {
             "name": "Aqua Dragon",
@@ -218,8 +202,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Amphibic Trigger",
             "cardcost": "46",
-            "cardAttribute": "Water",
-            "restriction": "Unlimited"
+            "cardAttribute": "Water"
         },
         {
             "name": "Archfiend Marmot",
@@ -231,8 +214,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Token",
             "cardcost": "10",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Archfiend Mirror",
@@ -244,8 +226,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Name",
             "cardcost": "13",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Archfiend Zombie Skull",
@@ -257,8 +238,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Land Regeneration increase",
             "cardcost": "0",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Armaill",
@@ -270,8 +250,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Armor gain",
             "cardcost": "20",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Armored Lizard",
@@ -283,8 +262,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Armor Equip Trap",
             "cardcost": "27",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Armored Rat",
@@ -296,8 +274,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Armor2 Defender return",
             "cardcost": "21",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Armored Starfish",
@@ -309,8 +286,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Aquatic Armor2 Defender search add",
             "cardcost": "28",
-            "cardAttribute": "Water",
-            "restriction": "Unlimited"
+            "cardAttribute": "Water"
         },
         {
             "name": "Armored Zombie",
@@ -322,8 +298,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Land Regeneration increase",
             "cardcost": "0",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Axe Raider",
@@ -335,8 +310,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Male Equip",
             "cardcost": "28",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "B. Dino Jungle King",
@@ -348,8 +322,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Heavy gain",
             "cardcost": "39",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Baby Dragon",
@@ -361,8 +334,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Counter(s) ",
             "cardcost": "19",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wind"
         },
         {
             "name": "Barox",
@@ -374,8 +346,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Terrain",
             "cardcost": "29",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Barrel Lily",
@@ -387,8 +358,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Reach inflict burn",
             "cardcost": "17",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Basic insect",
@@ -400,8 +370,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land poisoned",
             "cardcost": "12",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Battle Steer",
@@ -413,8 +382,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Attribute",
             "cardcost": "31",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Battle Warrior",
@@ -426,8 +394,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Male attack",
             "cardcost": "17",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Bear Trap",
@@ -439,8 +406,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Trigger Destroy",
             "cardcost": "15",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "Trap"
         },
         {
             "name": "Beast Fangs",
@@ -452,8 +418,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP",
             "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Beastly Mirror Ritual",
@@ -465,8 +430,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Ritual Summon",
             "cardcost": "5",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Beaver Warrior",
@@ -478,8 +442,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land DEF",
             "cardcost": "27",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Berfomet",
@@ -491,8 +454,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": " Fly search ",
             "cardcost": "32",
-            "cardAttribute": "Illusion",
-            "restriction": "Unlimited"
+            "cardAttribute": "Illusion"
         },
         {
             "name": "Big Ant",
@@ -504,8 +466,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Spell protected",
             "cardcost": "27",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Black Demon Dragon",
@@ -517,8 +478,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Fly Reach battlelocked attack",
             "cardcost": "0",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Black Luster Ritual",
@@ -530,8 +490,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Summon",
             "cardcost": "5",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Black Luster Soldier",
@@ -543,8 +502,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Land Magicarmor Terrain attack",
             "cardcost": "0",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Black Magic Ritual",
@@ -556,8 +514,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Summon",
             "cardcost": "5",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Black Veloci",
@@ -569,8 +526,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land FirstStrike",
             "cardcost": "26",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Blackland Fire Dragon",
@@ -582,8 +538,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Terrain",
             "cardcost": "28",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Blast Sphere",
@@ -595,8 +550,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Heavy Defender inflict damage",
             "cardcost": "58",
-            "cardAttribute": "Machine",
-            "restriction": "Unlimited"
+            "cardAttribute": "Machine"
         },
         {
             "name": "Blazewing Butterfly",
@@ -608,8 +562,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Destroy",
             "cardcost": "40",
-            "cardAttribute": "Fire",
-            "restriction": "Unlimited"
+            "cardAttribute": "Fire"
         },
         {
             "name": "Block Attack",
@@ -621,8 +574,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "change Posiition",
             "cardcost": "6",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Blue Medicine",
@@ -634,8 +586,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Heal poisoned toxic",
             "cardcost": "8",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Blue Ninja",
@@ -647,8 +598,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Male FLIP destroy",
             "cardcost": "6",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Blue-Eyed Silver Zombie",
@@ -660,8 +610,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Undead Type",
             "cardcost": "16",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Blue-Eyes Ultimate Dragon",
@@ -673,8 +622,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Fly Reach Crusedproved",
             "cardcost": "0",
-            "cardAttribute": "Light",
-            "restriction": "Unlimited"
+            "cardAttribute": "Light"
         },
         {
             "name": "Blue-Eyes White Dragon",
@@ -686,8 +634,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Reach Summon",
             "cardcost": "55",
-            "cardAttribute": "Light",
-            "restriction": "Unlimited"
+            "cardAttribute": "Light"
         },
         {
             "name": "Blue-Eyes White Zombie Dragon",
@@ -699,8 +646,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Fly Regeneration increase",
             "cardcost": "0",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Bolt Escargot",
@@ -712,8 +658,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land static Reach",
             "cardcost": "39",
-            "cardAttribute": "Electric",
-            "restriction": "Unlimited"
+            "cardAttribute": "Electric"
         },
         {
             "name": "Bolt Penguin",
@@ -725,8 +670,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land paralyzed",
             "cardcost": "19",
-            "cardAttribute": "Water",
-            "restriction": "Unlimited"
+            "cardAttribute": "Water"
         },
         {
             "name": "Book of Secrets",
@@ -738,8 +682,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP heal",
             "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Bottom Dweller",
@@ -751,8 +694,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Aquatic Terrain",
             "cardcost": "34",
-            "cardAttribute": "Water",
-            "restriction": "Unlimited"
+            "cardAttribute": "Water"
         },
         {
             "name": "Bracchio-raidus",
@@ -764,8 +706,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Heavy Summon",
             "cardcost": "47",
-            "cardAttribute": "Water",
-            "restriction": "Unlimited"
+            "cardAttribute": "Water"
         },
         {
             "name": "Breath of Light",
@@ -777,8 +718,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Earth Destroy",
             "cardcost": "35",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Burning Land",
@@ -790,8 +730,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Terrain",
             "cardcost": "20",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Burning Spear",
@@ -803,8 +742,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP",
             "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Call of the Haunted",
@@ -816,8 +754,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP",
             "cardcost": "20",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Candle of Fate",
@@ -829,8 +766,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Destroy Coin",
             "cardcost": "12",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Cannon Soldier",
@@ -840,10 +776,9 @@ const LegendOfTheDuelist = {
             "cardid": "LOD-065",
             "image": "./cards/Legendoftheduelist/Cannon Soldier.png",
             "deck": "A",
-            "keyword": "Land Heavy inflict",
+            "keyword": "Land Heavy inflict" ,
             "cardcost": "32",
-            "cardAttribute": "Machine",
-            "restriction": "Unlimited"
+            "cardAttribute": "Machine"
         },
         {
             "name": "Card Destruction ",
@@ -855,8 +790,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Discard draw",
             "cardcost": "40",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Castle of Darkening",
@@ -868,21 +802,19 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Search Equip",
             "cardcost": "34",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Castle Walls",
             "frame": "Trap",
-            "types": "Nromal Trap",
+            "types": "Nromal trap",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-069",
             "image": "./cards/Legendoftheduelist/Castle Walls.png",
             "deck": "A",
             "keyword": "increase",
             "cardcost": "5",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "Trap"
         },
         {
             "name": "Catapult Turtle",
@@ -894,8 +826,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Amphibic Defender inflict destroy",
             "cardcost": "35",
-            "cardAttribute": "Water",
-            "restriction": "Unlimited"
+            "cardAttribute": "Water"
         },
         {
             "name": "Celtic Guardian",
@@ -907,8 +838,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Male destroyed",
             "cardcost": "31",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Chakra",
@@ -920,8 +850,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Hypnosis Summon",
             "cardcost": "0",
-            "cardAttribute": "Illusion",
-            "restriction": "Unlimited"
+            "cardAttribute": "Illusion"
         },
         {
             "name": "Chaos Ring",
@@ -933,8 +862,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP ",
             "cardcost": "20",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Chimera the Flying Mythical Beast",
@@ -946,8 +874,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Fly",
             "cardcost": "0",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wind"
         },
         {
             "name": "Claw Reacher",
@@ -959,8 +886,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Reach",
             "cardcost": "18",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Cocoon of Evolution",
@@ -972,8 +898,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Defender Spell Equip Counter",
             "cardcost": "20",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Copycat",
@@ -985,8 +910,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Spell Copy",
             "cardcost": "21",
-            "cardAttribute": "Illusion",
-            "restriction": "Unlimited"
+            "cardAttribute": "Illusion"
         },
         {
             "name": "Corpse-Devouring Dinosaur",
@@ -998,8 +922,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Eroded",
             "cardcost": "28",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Crawling Dragon",
@@ -1011,8 +934,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Terrain",
             "cardcost": "30",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Crimson Sunbird",
@@ -1024,8 +946,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Fly",
             "cardcost": "0",
-            "cardAttribute": "Fire",
-            "restriction": "Unlimited"
+            "cardAttribute": "Fire"
         },
         {
             "name": "Crush Card Virus",
@@ -1037,8 +958,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP Destroy",
             "cardcost": "80",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "Trap"
         },
         {
             "name": "Curse of Dragon",
@@ -1050,8 +970,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Attribute",
             "cardcost": "35",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Curse of Tri-Horned Dragon",
@@ -1063,8 +982,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Ritual Summon",
             "cardcost": "5",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Curtain of the Dark Ones",
@@ -1076,8 +994,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Search",
             "cardcost": "16",
-            "cardAttribute": "Illusion",
-            "restriction": "Unlimited"
+            "cardAttribute": "Illusion"
         },
         {
             "name": "Cyber Commander",
@@ -1089,8 +1006,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Male Machine gain",
             "cardcost": "15",
-            "cardAttribute": "Machine",
-            "restriction": "Unlimited"
+            "cardAttribute": "Machine"
         },
         {
             "name": "Cyber Shield",
@@ -1102,8 +1018,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP",
             "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Dark Bat",
@@ -1115,8 +1030,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Lifelink Undead",
             "cardcost": "20",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wind"
         },
         {
             "name": "Dark Chimera",
@@ -1128,8 +1042,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly attach",
             "cardcost": "36",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Dark Energy",
@@ -1141,8 +1054,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP",
             "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Dark Gray",
@@ -1154,8 +1066,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Petrifie",
             "cardcost": "17",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Dark Magician",
@@ -1167,8 +1078,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Reach Male Summon",
             "cardcost": "46",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Dark Plant",
@@ -1180,8 +1090,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Terrain Transform Crush",
             "cardcost": "12",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Dark Sage",
@@ -1193,8 +1102,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Fly Magicarmor add search Spell",
             "cardcost": "0",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Dark-Piercing Light",
@@ -1206,8 +1114,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Hidden",
             "cardcost": "5",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Darkworld Thorns",
@@ -1219,8 +1126,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Beast-Warrior Warrior Spellcaster",
             "cardcost": "21",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "De Spell",
@@ -1232,8 +1138,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Spell Destroy Negate",
             "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Dead Shark",
@@ -1245,8 +1150,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Aquatic Regeneration increase",
             "cardcost": "0",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Deepsea Shark",
@@ -1258,8 +1162,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Aquatic Hypnotized",
             "cardcost": "35",
-            "cardAttribute": "Water",
-            "restriction": "Unlimited"
+            "cardAttribute": "Water"
         },
         {
             "name": "Delinquent Duo ",
@@ -1271,8 +1174,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Discard",
             "cardcost": "45",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Demon's Mirror",
@@ -1284,8 +1186,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Fly decrease",
             "cardcost": "0",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Destroyer Golem",
@@ -1297,8 +1198,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Heavy Plant Dinosaur Insect",
             "cardcost": "25",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Devil Kraken",
@@ -1310,8 +1210,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Aquatic Terrain EQUIP",
             "cardcost": "26",
-            "cardAttribute": "Water",
-            "restriction": "Unlimited"
+            "cardAttribute": "Water"
         },
         {
             "name": "Dig Beak",
@@ -1323,8 +1222,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land FirstStrike poisoned",
             "cardcost": "13",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Djinn the Watcher",
@@ -1336,8 +1234,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Coin move Fieldzone",
             "cardcost": "16",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wind"
         },
         {
             "name": "Dokuroizo the Grim",
@@ -1349,8 +1246,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Coin Deathtouch",
             "cardcost": "21",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Doma The Angel of Silent Death",
@@ -1362,8 +1258,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Female Wincon lose",
             "cardcost": "35",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Doron Token",
@@ -1375,8 +1270,7 @@ const LegendOfTheDuelist = {
             "deck": "C",
             "keyword": "Land Token",
             "cardcost": "0",
-            "cardAttribute": "Neutral",
-            "restriction": "Unlimited"
+            "cardAttribute": "Neutral"
         },
         {
             "name": "Doron",
@@ -1388,8 +1282,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Token Copy",
             "cardcost": "14",
-            "cardAttribute": "Neutral",
-            "restriction": "Unlimited"
+            "cardAttribute": "Neutral"
         },
         {
             "name": "Dorover",
@@ -1401,8 +1294,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Amphibic paralyze",
             "cardcost": "17",
-            "cardAttribute": "Water",
-            "restriction": "Unlimited"
+            "cardAttribute": "Water"
         },
         {
             "name": "Dragon Capture Jar",
@@ -1414,8 +1306,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Trigger Dragon Negate Equip",
             "cardcost": "8",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Dragon Nails",
@@ -1427,8 +1318,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP Dragon Dark ",
             "cardcost": "20",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Dragon Revival Ritual",
@@ -1440,8 +1330,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Ritual Summon",
             "cardcost": "5",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Dragon Subo",
@@ -1453,8 +1342,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Summon Dragon",
             "cardcost": "20",
-            "cardAttribute": "Fire",
-            "restriction": "Unlimited"
+            "cardAttribute": "Fire"
         },
         {
             "name": "Dragon Treasure",
@@ -1466,8 +1354,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP Dragon",
             "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Dragon Zombie",
@@ -1479,8 +1366,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Land Regeneration increase",
             "cardcost": "0",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Dragoness the Wicked",
@@ -1492,8 +1378,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Female Dragon gain",
             "cardcost": "21",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wind"
         },
         {
             "name": "Dragonvine",
@@ -1505,8 +1390,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP Trigger Dragon Pant control",
             "cardcost": "20",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "Trap"
         },
         {
             "name": "Droll Bird",
@@ -1518,8 +1402,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Flip",
             "cardcost": "11",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wind"
         },
         {
             "name": "Dust Tornado",
@@ -1531,8 +1414,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Destroy",
             "cardcost": "20",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "Trap"
         },
         {
             "name": "Eatgaboon",
@@ -1544,8 +1426,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "TRIGGER Destroy",
             "cardcost": "10",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "Trap"
         },
         {
             "name": "Electric Lizard",
@@ -1557,8 +1438,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Static unaffected",
             "cardcost": "17",
-            "cardAttribute": "Electric",
-            "restriction": "Unlimited"
+            "cardAttribute": "Electric"
         },
         {
             "name": "Electric Snake",
@@ -1568,10 +1448,9 @@ const LegendOfTheDuelist = {
             "cardid": "LOD-122",
             "image": "./cards/Legendoftheduelist/Electric Snake.png",
             "deck": "A",
-            "keyword": "Land Machine increase",
+            "keyword": "Land machine increase",
             "cardcost": "17",
-            "cardAttribute": "Electric",
-            "restriction": "Unlimited"
+            "cardAttribute": "Electric"
         },
         {
             "name": "Elegant Egotist",
@@ -1583,8 +1462,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Morph Summon Harpie",
             "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Elf's Light",
@@ -1596,8 +1474,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP Light",
             "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Embryonic Beast",
@@ -1609,8 +1486,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Defender Transform",
             "cardcost": "13",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Enchanting Mermaid",
@@ -1622,8 +1498,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Aquatic Female Male",
             "cardcost": "21",
-            "cardAttribute": "Water",
-            "restriction": "Unlimited"
+            "cardAttribute": "Water"
         },
         {
             "name": "Eternal Drought",
@@ -1635,8 +1510,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Destroy Aquatic",
             "cardcost": "35",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Eternal Rest",
@@ -1648,8 +1522,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Destroy Equip",
             "cardcost": "40",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Exile of the Wicked",
@@ -1661,8 +1534,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Destroy Demon",
             "cardcost": "35",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Exodia the Forbidden One",
@@ -1674,8 +1546,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Exodia Wincon",
             "cardcost": "25",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Eyearmor",
@@ -1687,8 +1558,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Male Flip",
             "cardcost": "11",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Fairy Meteor Crush",
@@ -1700,8 +1570,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP Piercing",
             "cardcost": "15",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Fairy's Gift",
@@ -1713,8 +1582,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Female Light Fairy",
             "cardcost": "24",
-            "cardAttribute": "Light",
-            "restriction": "Unlimited"
+            "cardAttribute": "Light"
         },
         {
             "name": "Fake Trap ",
@@ -1726,8 +1594,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Trigger substitute",
             "cardcost": "5",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "Trap"
         },
         {
             "name": "Feral Imp",
@@ -1739,8 +1606,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Face-down",
             "cardcost": "27",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Fiend Reflection#2",
@@ -1752,8 +1618,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly flipped",
             "cardcost": "25",
-            "cardAttribute": "Illusion",
-            "restriction": "Unlimited"
+            "cardAttribute": "Illusion"
         },
         {
             "name": "Fiend's Hand",
@@ -1765,8 +1630,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Deathtouch",
             "cardcost": "12",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Fire Eye",
@@ -1778,8 +1642,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Hypnotized",
             "cardcost": "14",
-            "cardAttribute": "Fire",
-            "restriction": "Unlimited"
+            "cardAttribute": "Fire"
         },
         {
             "name": "Fire Reaper",
@@ -1791,8 +1654,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Destroy Earth",
             "cardcost": "12",
-            "cardAttribute": "Fire",
-            "restriction": "Unlimited"
+            "cardAttribute": "Fire"
         },
         {
             "name": "Firegrass",
@@ -1804,8 +1666,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Resistance Fire",
             "cardcost": "13",
-            "cardAttribute": "Fire",
-            "restriction": "Unlimited"
+            "cardAttribute": "Fire"
         },
         {
             "name": "Fireyarou",
@@ -1817,8 +1678,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Male Spellcaster",
             "cardcost": "23",
-            "cardAttribute": "Fire",
-            "restriction": "Unlimited"
+            "cardAttribute": "Fire"
         },
         {
             "name": "Fissure",
@@ -1830,8 +1690,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Destroy",
             "cardcost": "20",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Five God Dragon",
@@ -1843,8 +1702,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Fly Reach Destroy Attribute",
             "cardcost": "0",
-            "cardAttribute": "Wicked",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wicked"
         },
         {
             "name": "Flame Cerebrus",
@@ -1856,8 +1714,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Petrified",
             "cardcost": "39",
-            "cardAttribute": "Fire",
-            "restriction": "Unlimited"
+            "cardAttribute": "Fire"
         },
         {
             "name": "Flame Swordsman",
@@ -1869,8 +1726,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Male Dinosaur",
             "cardcost": "39",
-            "cardAttribute": "Fire",
-            "restriction": "Unlimited"
+            "cardAttribute": "Fire"
         },
         {
             "name": "Flame Viper",
@@ -1882,8 +1738,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Amphibic Resistance Fire Attribute",
             "cardcost": "10",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Flesh-Eating Plant",
@@ -1895,8 +1750,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Warrior Beast-Warrior Spellcaster",
             "cardcost": "14",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Flotation Ring",
@@ -1908,8 +1762,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP",
             "cardcost": "5",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Flower Wolf",
@@ -1921,8 +1774,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "Land poisoned",
             "cardcost": "33",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Follow Wind",
@@ -1934,8 +1786,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP Fairy Wind",
             "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Full Moon",
@@ -1947,8 +1798,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Beast increase Water Terrain",
             "cardcost": "15",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Gaia the Dragon Knight",
@@ -1960,8 +1810,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Fly Piercing",
             "cardcost": "0",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "cardAttribute": "WIND"
         },
         {
             "name": "Gaia the Fierce Knight",
@@ -1973,8 +1822,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Male Attribute",
             "cardcost": "44",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Garma Sowrd Oath",
@@ -1986,8 +1834,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Ritual Summon",
             "cardcost": "5",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Garma Sword",
@@ -1999,8 +1846,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Land Spellcaster attack",
             "cardcost": "0",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Garoozis",
@@ -2012,8 +1858,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land unaffected Spell",
             "cardcost": "33",
-            "cardAttribute": "Fire",
-            "restriction": "Unlimited"
+            "cardAttribute": "Fire"
         },
         {
             "name": "Garura, Wings of Resonant Life",
@@ -2025,8 +1870,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Fly",
             "cardcost": "0",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Garvas",
@@ -2038,8 +1882,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Fly",
             "cardcost": "0",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Gate Deeg",
@@ -2051,8 +1894,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Summon damage",
             "cardcost": "15",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Gazelle the King of Mythical Beasts",
@@ -2064,8 +1906,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Beast-Warrior Terrain",
             "cardcost": "17",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Germ Infection",
@@ -2077,8 +1918,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Destroy Beast Dinosaur Winged-Beast Beast-Warrior",
             "cardcost": "35",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Ghost King- Pumpking",
@@ -2090,8 +1930,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Undead Zombie ",
             "cardcost": "43",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Giant Soldier of Stone",
@@ -2103,8 +1942,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Heavy Spell Water Terrain",
             "cardcost": "38",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Gift of the Mystical Elf",
@@ -2116,8 +1954,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Heal Crusedproved",
             "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Gigantic Cephalotus",
@@ -2129,8 +1966,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Plant Graveyard GY",
             "cardcost": "31",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Gigaplant",
@@ -2142,8 +1978,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Insect Plant Summon Hand Graveyard GY",
             "cardcost": "36",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Goblin's Secret Remedy",
@@ -2155,8 +1990,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Heal",
             "cardcost": "6",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Gokibore",
@@ -2168,8 +2002,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land damage",
             "cardcost": "26",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Grappler",
@@ -2181,8 +2014,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Move Fieldzone Zone",
             "cardcost": "25",
-            "cardAttribute": "Water",
-            "restriction": "Unlimited"
+            "cardAttribute": "Water"
         },
         {
             "name": "Grave Arm",
@@ -2194,8 +2026,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Destroy Undead Zombie Alter Summon",
             "cardcost": "20",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Gravekeeper's Servant ",
@@ -2207,8 +2038,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Mill send Deck",
             "cardcost": "25",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Graverobber",
@@ -2220,8 +2050,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Trigger Summon",
             "cardcost": "50",
-            "cardAttribute": "Spell-Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell-Trap"
         },
         {
             "name": "Graveyard and the Hand of Invitation",
@@ -2233,8 +2062,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Tribute Undead zombie",
             "cardcost": "16",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Great Mammoth of Goldfine",
@@ -2246,8 +2074,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Land unaffected Spell",
             "cardcost": "0",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Great Moth",
@@ -2259,8 +2086,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Fly Alter Timeshifted Poison Counter Fieldzone",
             "cardcost": "0",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Great White Terror",
@@ -2272,8 +2098,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Aquatic Water Terrain Destroy Submerged move",
             "cardcost": "27",
-            "cardAttribute": "Water",
-            "restriction": "Unlimited"
+            "cardAttribute": "Water"
         },
         {
             "name": "Griffore",
@@ -2285,21 +2110,19 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Warrior",
             "cardcost": "26",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Ground Attacker Bugroth",
             "frame": "Monster",
-            "types": "Machine",
+            "types": "machine",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-178",
             "image": "./cards/Legendoftheduelist/Ground Attacker Bugroth.png",
             "deck": "A",
             "keyword": "Amphibic Water Terrain",
             "cardcost": "25",
-            "cardAttribute": "Machine",
-            "restriction": "Unlimited"
+            "cardAttribute": "machine"
         },
         {
             "name": "Gryphon Wing",
@@ -2309,10 +2132,9 @@ const LegendOfTheDuelist = {
             "cardid": "LOD-179",
             "image": "./cards/Legendoftheduelist/Gryphon Wing.png",
             "deck": "A",
-            "keyword": "Destroy Spell Trap",
+            "keyword": "Destroy Spell trap",
             "cardcost": "70",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Gust Fan",
@@ -2324,8 +2146,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP Wind Fly",
             "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Haniwa",
@@ -2337,8 +2158,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Tribute Deck",
             "cardcost": "10",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Happy Lover",
@@ -2350,8 +2170,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Elemental trait",
             "cardcost": "13",
-            "cardAttribute": "Light",
-            "restriction": "Unlimited"
+            "cardAttribute": "Light"
         },
         {
             "name": "Hard Armor",
@@ -2363,8 +2182,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land EQUIP Warrior",
             "cardcost": "15",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Harpie Lady",
@@ -2376,8 +2194,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Female equip",
             "cardcost": "27",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wind"
         },
         {
             "name": "Harpie's Feather Duster",
@@ -2387,10 +2204,9 @@ const LegendOfTheDuelist = {
             "cardid": "LOD-185",
             "image": "./cards/Legendoftheduelist/Harpie's Feather Duster.png",
             "deck": "A",
-            "keyword": "Harpie Destroy Spell Trap",
+            "keyword": "Harpie Destroy Spell trap",
             "cardcost": "30",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Harpie's Pet Dragon",
@@ -2402,21 +2218,19 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly harpie attack",
             "cardcost": "45",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wind"
         },
         {
             "name": "Heavy Storm",
-            "frame": "Spell",
-            "types": "Normal Spell ",
+            "frame": "Spel",
+            "types": "Normal Sepll ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-187",
             "image": "./cards/Legendoftheduelist/Heavy Storm.png",
             "deck": "A",
-            "keyword": "Destroy Spell Trap",
+            "keyword": "Destroy Spell trap",
             "cardcost": "40",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Hercules Beetle",
@@ -2428,8 +2242,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Reach Equip negate",
             "cardcost": "35",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Hinotama Soul",
@@ -2441,8 +2254,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Tribute inflict",
             "cardcost": "11",
-            "cardAttribute": "Fire",
-            "restriction": "Unlimited"
+            "cardAttribute": "Fire"
         },
         {
             "name": "Hinotama",
@@ -2454,8 +2266,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "inflict",
             "cardcost": "20",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Hitodenchak",
@@ -2467,8 +2278,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Aquatic Poison Defender toxic Counter",
             "cardcost": "18",
-            "cardAttribute": "Water",
-            "restriction": "Unlimited"
+            "cardAttribute": "Water"
         },
         {
             "name": "Hitotsu-Me Giant",
@@ -2480,21 +2290,19 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Male Hypnotize",
             "cardcost": "22",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Holograh",
             "frame": "Monster",
-            "types": "Machine",
+            "types": "Mahine",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-193",
             "image": "./cards/Legendoftheduelist/Holograh.png",
             "deck": "A",
             "keyword": "Heavy Coin negate",
             "cardcost": "18",
-            "cardAttribute": "Machine",
-            "restriction": "Unlimited"
+            "cardAttribute": "machine"
         },
         {
             "name": "Horn Imp",
@@ -2506,8 +2314,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Dark Terrain",
             "cardcost": "23",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Horn of Heaven",
@@ -2519,8 +2326,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Summon Negate Destroy",
             "cardcost": "30",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "Trap"
         },
         {
             "name": "Horn of the Unicron",
@@ -2532,8 +2338,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP Beast Demon Reach Electric",
             "cardcost": "15",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Hourglass of Life",
@@ -2545,21 +2350,19 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly pay LP Summon",
             "cardcost": "13",
-            "cardAttribute": "Light",
-            "restriction": "Unlimited"
+            "cardAttribute": "Light"
         },
         {
             "name": "House of Adhesive Tape",
             "frame": "Trap",
-            "types": "Normal Trap ",
+            "types": "Normal trap ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-198",
             "image": "./cards/Legendoftheduelist/House of Adhesive Tape.png",
             "deck": "A",
             "keyword": "Trigger Destroy",
             "cardcost": "5",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "Trap"
         },
         {
             "name": "Hurricail",
@@ -2571,8 +2374,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly move Fieldzoneone",
             "cardcost": "11",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wind"
         },
         {
             "name": "Hypnotism",
@@ -2584,12 +2386,11 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "reduce Hypnotized",
             "cardcost": "30",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Infinite Dismissal",
-            "frame": "Trap",
+            "frame": "trap",
             "types": "Equip Trap ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-201",
@@ -2597,12 +2398,11 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Trigger EQUIP battlelocked",
             "cardcost": "25",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "trap"
         },
         {
             "name": "Insect Armor with Laser Cannon",
-            "frame": "Spell",
+            "frame": "SPell",
             "types": "Equip Spell ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-202",
@@ -2610,8 +2410,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP Insect",
             "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Insect Power Booster Armor",
@@ -2623,8 +2422,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP Insect",
             "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "insect Queen",
@@ -2636,8 +2434,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Heavy Insect Token",
             "cardcost": "51",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Insect Soldiers of the Sky",
@@ -2649,12 +2446,11 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly increase Wind",
             "cardcost": "18",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wind"
         },
         {
             "name": "Invigoration",
-            "frame": "Spell",
+            "frame": "Spel",
             "types": "equip Spell ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-206",
@@ -2662,8 +2458,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP Earth Petrified",
             "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Invisible Wire",
@@ -2675,10 +2470,9 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Trigger Destroy",
             "cardcost": "20",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "Trap"
         },
-        {
+		{
             "name": "Invisible Wire",
             "frame": "Trap",
             "types": "Normal Trap",
@@ -2688,8 +2482,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Trigger Destroy",
             "cardcost": "20",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "Trap"
         },
         {
             "name": "Javelin Beetle Pact",
@@ -2701,8 +2494,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Ritual Summon",
             "cardcost": "5",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Javelin Beetle",
@@ -2714,8 +2506,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Fly Piercing Armor Dragon",
             "cardcost": "0",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Jellyfish",
@@ -2727,8 +2518,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Aquatic Water Terrain Electric Hidden",
             "cardcost": "27",
-            "cardAttribute": "Water",
-            "restriction": "Unlimited"
+            "cardAttribute": "Water"
         },
         {
             "name": "Jinzo",
@@ -2740,8 +2530,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Magicarmor Trap negated",
             "cardcost": "49",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Job-Change Mirror",
@@ -2753,8 +2542,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Transform",
             "cardcost": "26",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Judge Man",
@@ -2766,8 +2554,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Male destroy ",
             "cardcost": "43",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Kagemusha of the blue Flame",
@@ -2779,8 +2566,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Male Warrior",
             "cardcost": "12",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Kageningen",
@@ -2792,8 +2578,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Male",
             "cardcost": "14",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Kairyu-Shin",
@@ -2805,8 +2590,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Aquatic Earth Wilderness Terrain Transform replace",
             "cardcost": "38",
-            "cardAttribute": "Water",
-            "restriction": "Unlimited"
+            "cardAttribute": "Water"
         },
         {
             "name": "Kamionwizard",
@@ -2818,8 +2602,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Triiger Trap",
             "cardcost": "24",
-            "cardAttribute": "Illusion",
-            "restriction": "Unlimited"
+            "cardAttribute": "Illusion"
         },
         {
             "name": "Karbonala Warrior",
@@ -2831,12 +2614,11 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Male Light Attribute",
             "cardcost": "27",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Kazejin",
-            "frame": "Monster",
+            "frame": "Monster ",
             "types": "Demon",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-219",
@@ -2844,8 +2626,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Reach StormGuardian negate",
             "cardcost": "56",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wind"
         },
         {
             "name": "Kentaurus",
@@ -2857,8 +2638,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Male",
             "cardcost": "29",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Killer Needle",
@@ -2870,8 +2650,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly destroyed",
             "cardcost": "22",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wind"
         },
         {
             "name": "King of Yamimakai",
@@ -2883,8 +2662,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Terrain Transform Dark",
             "cardcost": "40",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Kojikocy",
@@ -2896,8 +2674,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Male Demon",
             "cardcost": "27",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Korogashi ",
@@ -2909,8 +2686,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land decrease ",
             "cardcost": "10",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Koumori Dragon",
@@ -2922,8 +2698,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly",
             "cardcost": "27",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Krokodilus",
@@ -2935,8 +2710,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Amphibic rearrange deck",
             "cardcost": "23",
-            "cardAttribute": "Water",
-            "restriction": "Unlimited"
+            "cardAttribute": "Water"
         },
         {
             "name": "Kumootoko",
@@ -2948,8 +2722,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "land Reach battlelocked",
             "cardcost": "21",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Kunai with Chain",
@@ -2961,8 +2734,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP Trigger Warrior Beast-Warrior",
             "cardcost": "20",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "Trap"
         },
         {
             "name": "Kurama",
@@ -2974,8 +2746,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly draw ",
             "cardcost": "16",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wind"
         },
         {
             "name": "Kuriboh",
@@ -2987,8 +2758,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "damage",
             "cardcost": "5",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Kwagar Hercules",
@@ -3000,8 +2770,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Armor Piercing Aquatic",
             "cardcost": "36",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "La Jinn the Mystical Genie of the Lamp",
@@ -3013,8 +2782,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Reach ",
             "cardcost": "33",
-            "cardAttribute": "Illusion",
-            "restriction": "Unlimited"
+            "cardAttribute": "Illusion"
         },
         {
             "name": "LaLa Li-oon",
@@ -3026,8 +2794,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Static Poison",
             "cardcost": "12",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wind"
         },
         {
             "name": "Larva Moth",
@@ -3039,8 +2806,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Alter Summon",
             "cardcost": "9",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Larvas",
@@ -3052,8 +2818,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Poison",
             "cardcost": "18",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Laser Cannon Armor",
@@ -3065,8 +2830,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP Insect",
             "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Last Day of Witch",
@@ -3078,8 +2842,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Destroy Spellcaster",
             "cardcost": "35",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Lava Battleguard",
@@ -3091,8 +2854,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land damage",
             "cardcost": "33",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Left Arm of the Forbidden One",
@@ -3104,8 +2866,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Exodia Wincon",
             "cardcost": "5",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Left Leg of the Forbidden One",
@@ -3117,8 +2878,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Exodia Wincon",
             "cardcost": "5",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Legendary Sword",
@@ -3130,8 +2890,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP Warrior",
             "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Lesser Dragon",
@@ -3143,8 +2902,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land reduce",
             "cardcost": "22",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "cardAttribute": "WIND"
         },
         {
             "name": "Limiter Removal",
@@ -3156,8 +2914,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "increase Machine",
             "cardcost": "25",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Living Arrow",
@@ -3169,8 +2926,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "copy",
             "cardcost": "35",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Lonefire Blossom",
@@ -3182,8 +2938,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Plant Summon",
             "cardcost": "24",
-            "cardAttribute": "Fire",
-            "restriction": "Unlimited"
+            "cardAttribute": "Fire"
         },
         {
             "name": "Lucky Trinket",
@@ -3195,8 +2950,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Shadow Dark decrease",
             "cardcost": "14",
-            "cardAttribute": "Light",
-            "restriction": "Unlimited"
+            "cardAttribute": "Light"
         },
         {
             "name": "M-Warrior #1",
@@ -3208,8 +2962,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Male Piercing",
             "cardcost": "15",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "M-Warrior #2",
@@ -3221,8 +2974,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Male",
             "cardcost": "15",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Machine Conversion Factory",
@@ -3234,8 +2986,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Machine increase",
             "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Mad Sword Beast",
@@ -3247,8 +2998,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Piercing Water unaffected",
             "cardcost": "31",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "magic jammer",
@@ -3260,8 +3010,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Trigger negate Spell",
             "cardcost": "30",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "Trap"
         },
         {
             "name": "Magic Knight Giltia",
@@ -3273,8 +3022,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Reach Male",
             "cardcost": "33",
-            "cardAttribute": "Light",
-            "restriction": "Unlimited"
+            "cardAttribute": "Light"
         },
         {
             "name": "Magic Lamp",
@@ -3286,8 +3034,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Trigger redirect",
             "cardcost": "24",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Magician of Black Chaos",
@@ -3299,8 +3046,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Reach Hypnotized Erode",
             "cardcost": "0",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Magician of Faith",
@@ -3310,10 +3056,9 @@ const LegendOfTheDuelist = {
             "cardid": "LOD-255",
             "image": "./cards/Legendoftheduelist/Magician of Faith.png",
             "deck": "A",
-            "keyword": "Land Female Flip Spell GY Graveyard",
+            "keyword": "Land Female Flip spell GY Graveyard",
             "cardcost": "12",
-            "cardAttribute": "Light",
-            "restriction": "Unlimited"
+            "cardAttribute": "Light"
         },
         {
             "name": "Makiu, the Magical Mist",
@@ -3325,8 +3070,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Dampened Fire poisoned Electric",
             "cardcost": "25",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Mammoth Graveyard",
@@ -3338,8 +3082,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Polymerization",
             "cardcost": "20",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Man Eater",
@@ -3351,8 +3094,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Flip Destroy Wilderness Terrain",
             "cardcost": "14",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Man-Eater Bug",
@@ -3364,8 +3106,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Flip Destroy",
             "cardcost": "15",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Man-Eating Black Shark",
@@ -3377,8 +3118,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Aquatic Trait",
             "cardcost": "34",
-            "cardAttribute": "Water",
-            "restriction": "Unlimited"
+            "cardAttribute": "Water"
         },
         {
             "name": "Masaki the Legendary Swordsman",
@@ -3390,8 +3130,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Male Terrain",
             "cardcost": "22",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Mavelus",
@@ -3403,21 +3142,19 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Fire Attribute",
             "cardcost": "22",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "cardAttribute": "WIND"
         },
         {
             "name": "Mech Mole Zombie",
             "frame": "Monster",
-            "types": "Undead Machine",
+            "types": "Undead machine",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-263",
             "image": "./cards/Legendoftheduelist/Mech Mole Zombie.png",
             "deck": "A",
             "keyword": "Land Flip Change type Undead",
             "cardcost": "9",
-            "cardAttribute": "Machine",
-            "restriction": "Unlimited"
+            "cardAttribute": "machine"
         },
         {
             "name": "Meda Bat",
@@ -3429,8 +3166,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Light decrease",
             "cardcost": "12",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Medusa's Ghost",
@@ -3442,8 +3178,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Female Petrified",
             "cardcost": "32",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Megasaurus",
@@ -3455,8 +3190,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Piercing Hidden",
             "cardcost": "38",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Meotoko",
@@ -3468,8 +3202,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land look deck",
             "cardcost": "13",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Metal Flame Swordsman",
@@ -3481,8 +3214,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Land Heavy Magicarmor Dinosaur Beast",
             "cardcost": "0",
-            "cardAttribute": "Fire",
-            "restriction": "Unlimited"
+            "cardAttribute": "Fire"
         },
         {
             "name": "Metal Gaia the Fierce Knight",
@@ -3494,8 +3226,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Land Magicarmor Piercing Light Attribute",
             "cardcost": "0",
-            "cardAttribute": "Machine",
-            "restriction": "Unlimited"
+            "cardAttribute": "machine"
         },
         {
             "name": "Metal Guardian",
@@ -3507,8 +3238,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Heavy Defender GY Graveyard",
             "cardcost": "33",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Metal Zoa",
@@ -3520,21 +3250,19 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Land Heavy Magicarmor increase",
             "cardcost": "0",
-            "cardAttribute": "Machine",
-            "restriction": "Unlimited"
+            "cardAttribute": "machine"
         },
         {
             "name": "Metalmorph",
             "frame": "Trap",
-            "types": "Equip Trap",
+            "types": "Equip trap",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-272",
             "image": "./cards/Legendoftheduelist/Metalmorph.png",
             "deck": "A",
             "keyword": "Trigger EQUIP Metalized Alter Summon Magicarmor",
             "cardcost": "20",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "Trap"
         },
         {
             "name": "Metalzera",
@@ -3546,8 +3274,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Land Heavy Magicarmor Destrucion damage",
             "cardcost": "0",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Meteor Black Dragon",
@@ -3559,8 +3286,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Fly Reach destroyed",
             "cardcost": "0",
-            "cardAttribute": "Fire",
-            "restriction": "Unlimited"
+            "cardAttribute": "Fire"
         },
         {
             "name": "Meteor Dragon",
@@ -3572,21 +3298,19 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly destroy random monster",
             "cardcost": "43",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Michizure",
-            "frame": "Trap",
-            "types": "Normal Trap",
+            "frame": "trap",
+            "types": "Normal trap",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-276",
             "image": "./cards/Legendoftheduelist/Michizure.png",
             "deck": "A",
             "keyword": "Destroy monster GY Graveyard",
             "cardcost": "25",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "Trap"
         },
         {
             "name": "Midnight Fiend",
@@ -3598,12 +3322,11 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Petrified",
             "cardcost": "14",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Millennium Golem",
-            "frame": "Monster",
+            "frame": "monster",
             "types": "Elemental",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-278",
@@ -3611,8 +3334,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Heavy draw",
             "cardcost": "42",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Millennium Shield",
@@ -3624,8 +3346,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Defender increase",
             "cardcost": "35",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Minocentaur",
@@ -3637,12 +3358,11 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Land Resistance Fire Piercing",
             "cardcost": "0",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Minotaurus",
-            "frame": "Monster",
+            "frame": "monster",
             "types": "Beast-Warrior",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-281",
@@ -3650,8 +3370,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Resistance Fire ",
             "cardcost": "27",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Mirror Force",
@@ -3663,12 +3382,11 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Trigger Destroy Monster Destrucion damage",
             "cardcost": "70",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "Trap"
         },
         {
             "name": "Misairuzame",
-            "frame": "Monster",
+            "frame": "monster",
             "types": "Fish",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-283",
@@ -3676,8 +3394,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Aquatic Reach Machine",
             "cardcost": "35",
-            "cardAttribute": "Water",
-            "restriction": "Unlimited"
+            "cardAttribute": "Water"
         },
         {
             "name": "Mist Wurm",
@@ -3689,8 +3406,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Fly Airborn",
             "cardcost": "0",
-            "cardAttribute": "Electric",
-            "restriction": "Unlimited"
+            "cardAttribute": "Electric"
         },
         {
             "name": "Monster Reborn",
@@ -3702,12 +3418,11 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Gy Graveyard Summon",
             "cardcost": "50",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Morphing Jar",
-            "frame": "Monster",
+            "frame": "monster",
             "types": "Demon",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-286",
@@ -3715,12 +3430,11 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land discard draw",
             "cardcost": "28",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Mountain Warrior",
-            "frame": "Monster",
+            "frame": "monster",
             "types": "Warrior",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-287",
@@ -3728,8 +3442,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Male Terrain",
             "cardcost": "16",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Murder Circus Zombie",
@@ -3741,8 +3454,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Land Regeneration increase",
             "cardcost": "0",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Murder Circus",
@@ -3754,8 +3466,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Change Posiition",
             "cardcost": "28",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Mystical Capture Chain",
@@ -3767,8 +3478,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP Stunned battlelocked Spellbinding",
             "cardcost": "24",
-            "cardAttribute": "Light",
-            "restriction": "Unlimited"
+            "cardAttribute": "Light"
         },
         {
             "name": "Mystical Elf",
@@ -3780,12 +3490,11 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Crusedproved Female Counter Light increase",
             "cardcost": "33",
-            "cardAttribute": "Light",
-            "restriction": "Unlimited"
+            "cardAttribute": "Light"
         },
         {
             "name": "Needle Worm",
-            "frame": "Monster",
+            "frame": "monster",
             "types": "Insect",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-292",
@@ -3793,8 +3502,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "land Flip Mill",
             "cardcost": "28",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Negate Attack",
@@ -3806,8 +3514,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Negate Attack redirect",
             "cardcost": "15",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "spell"
         },
         {
             "name": "Nemuriko",
@@ -3819,12 +3526,11 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Female Warrior battlelocked",
             "cardcost": "20",
-            "cardAttribute": "Illusion",
-            "restriction": "Unlimited"
+            "cardAttribute": "Illusion"
         },
         {
             "name": "Nightmare Scorpion",
-            "frame": "Monster",
+            "frame": "monster",
             "types": "Insect",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-295",
@@ -3832,12 +3538,11 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Poison paralyze",
             "cardcost": "17",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Niwatori",
-            "frame": "Monster",
+            "frame": "monster",
             "types": "Winged-Beast",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-296",
@@ -3845,8 +3550,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Resistance Poison LP increase poisoned",
             "cardcost": "17",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Novox's Prayer",
@@ -3858,8 +3562,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Ritual Summon",
             "cardcost": "5",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Number 44 sky pegasus",
@@ -3871,8 +3574,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Fly Number",
             "cardcost": "0",
-            "cardAttribute": "Light",
-            "restriction": "Unlimited"
+            "cardAttribute": "Light"
         },
         {
             "name": "Obese Marmot of Nefariousness",
@@ -3884,8 +3586,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly increase",
             "cardcost": "16",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Ogre of the Black Shadow",
@@ -3897,8 +3598,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Piercing Male Attribute Dark",
             "cardcost": "26",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "One-Eyed Shield Dragon",
@@ -3910,8 +3610,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly EQUIP increase",
             "cardcost": "20",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wind"
         },
         {
             "name": "Orgoth the Relentless",
@@ -3923,8 +3622,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Male Dice",
             "cardcost": "59",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Paralyzing Potion",
@@ -3936,8 +3634,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP Stunned Spellbinding battlelocked",
             "cardcost": "15",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Pendulum Machine",
@@ -3949,8 +3646,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Magicarmor inflict damage",
             "cardcost": "37",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Perfectly Ultimate Great Moth",
@@ -3962,8 +3658,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Fly Timeshifted Destroy Poison Counter Terrain",
             "cardcost": "0",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Petit Angel",
@@ -3975,8 +3670,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly search Light Deck",
             "cardcost": "15",
-            "cardAttribute": "Light",
-            "restriction": "Unlimited"
+            "cardAttribute": "Light"
         },
         {
             "name": "Petit Dragon",
@@ -3988,8 +3682,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Summoning Counter",
             "cardcost": "13",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wind"
         },
         {
             "name": "Petit Moth",
@@ -4001,8 +3694,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Alter Summon Timeshifted",
             "cardcost": "5",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Phantom Dewan",
@@ -4014,8 +3706,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Stunned Spellbinding battlelocked",
             "cardcost": "18",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Sahdow"
         },
         {
             "name": "Phantom Ghost",
@@ -4027,8 +3718,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Illusion decrease",
             "cardcost": "14",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Plant Food Chain",
@@ -4040,8 +3730,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Trigger EQUIP Plant GY Graveyard Summon",
             "cardcost": "15",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "Trap"
         },
         {
             "name": "Polymerization",
@@ -4053,8 +3742,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fusion Summon Polymerization",
             "cardcost": "5",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Pot of Greed",
@@ -4066,8 +3754,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "draw",
             "cardcost": "35",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Power of Kaishin",
@@ -4079,8 +3766,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP Fish SeaSerpent Aqua",
             "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Pragtical",
@@ -4092,8 +3778,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Land FirstStrike Dinosaur",
             "cardcost": "0",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Predaplant Verte Anaconda",
@@ -4105,8 +3790,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "land Poison",
             "cardcost": "0",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Punished Eagle",
@@ -4118,8 +3802,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Fly",
             "cardcost": "0",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wind"
         },
         {
             "name": "Raigeki ",
@@ -4131,8 +3814,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Destroy monster",
             "cardcost": "70",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Raimei",
@@ -4144,8 +3826,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "inflict damage",
             "cardcost": "8",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Rain of Mercy",
@@ -4157,8 +3838,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Destroy Undead Zombie Destrucion damage",
             "cardcost": "35",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Raise Body Heat",
@@ -4170,8 +3850,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Equip Dinosaur Reptile Beast",
             "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Rare Fish",
@@ -4183,8 +3862,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Aquatic Trigger Trap",
             "cardcost": "27",
-            "cardAttribute": "Water",
-            "restriction": "Unlimited"
+            "cardAttribute": "Water"
         },
         {
             "name": "Reaper of the Cards",
@@ -4196,8 +3874,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Destroy Spell Erode",
             "cardcost": "38",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Red Medicine",
@@ -4209,8 +3886,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Heal Cursed Trait",
             "cardcost": "5",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Red Ninja",
@@ -4222,8 +3898,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Male Flip Destroy Trap",
             "cardcost": "6",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Red-Eyes Black Dragon",
@@ -4235,8 +3910,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Reach Summon negated",
             "cardcost": "44",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Red-Eyes Black Zombie Dragon",
@@ -4248,8 +3922,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Regeneration increase",
             "cardcost": "0",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Red-Eyes Metal Dragon",
@@ -4261,8 +3934,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Fly Heavy Equip",
             "cardcost": "0",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Reinforcements",
@@ -4274,8 +3946,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "increase",
             "cardcost": "5",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "Trap"
         },
         {
             "name": "Remove Trap",
@@ -4287,8 +3958,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "destory Trap Negate",
             "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Resurrection of Chakra",
@@ -4300,8 +3970,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Ritual Summon",
             "cardcost": "5",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Reverse Trap",
@@ -4313,8 +3982,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Reverse",
             "cardcost": "50",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "Trap"
         },
         {
             "name": "Revovler Dragon",
@@ -4326,8 +3994,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Heavy Magicarmor Coin",
             "cardcost": "53",
-            "cardAttribute": "Machine",
-            "restriction": "Unlimited"
+            "cardAttribute": "Machine"
         },
         {
             "name": "Rhaimundos of the Red Sword",
@@ -4339,8 +4006,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Resistance Fire Earth Terrain",
             "cardcost": "25",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Right Arm of the Forbidden One",
@@ -4352,8 +4018,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Exoida Wincon",
             "cardcost": "5",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Right Leg of the Forbidden One",
@@ -4365,8 +4030,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Exodia Wincon",
             "cardcost": "5",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Ring of Magnetism",
@@ -4378,8 +4042,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP",
             "cardcost": "5",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Riryoku",
@@ -4391,8 +4054,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "reduce LP increase ",
             "cardcost": "70",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Rock Ogre Grotto #1",
@@ -4404,8 +4066,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Terrain Earth Water",
             "cardcost": "20",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Rock Ogre Grotto #2",
@@ -4417,8 +4078,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "land Terrain Earth Water",
             "cardcost": "21",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Rose Spectre of Dunn",
@@ -4430,8 +4090,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Land poison",
             "cardcost": "0",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Rose Whip",
@@ -4443,8 +4102,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP Harpie",
             "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Royal Decree",
@@ -4456,8 +4114,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Trigger Negate Trap",
             "cardcost": "50",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "Trap"
         },
         {
             "name": "Rude Kaiser",
@@ -4469,8 +4126,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Equip",
             "cardcost": "38",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Ryu-Kishin Powered",
@@ -4482,8 +4138,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Petrified",
             "cardcost": "28",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Ryu-Kishin",
@@ -4495,8 +4150,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Petrified",
             "cardcost": "15",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Saggi the Dark Clown",
@@ -4508,8 +4162,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Piercing damage",
             "cardcost": "21",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Salamandra",
@@ -4521,8 +4174,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP Fire Warrior Reach ",
             "cardcost": "15",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Sand Stone",
@@ -4534,8 +4186,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Hidden Earth Terrain",
             "cardcost": "29",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Sanga",
@@ -4547,8 +4198,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Reach StormGuardian",
             "cardcost": "58",
-            "cardAttribute": "Electric",
-            "restriction": "Unlimited"
+            "cardAttribute": "Electric"
         },
         {
             "name": "Sangan",
@@ -4560,8 +4210,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Search",
             "cardcost": "16",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "cardAttribute": "Dark"
         },
         {
             "name": "Sectarian of Secrets",
@@ -4573,8 +4222,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "decrease",
             "cardcost": "13",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Seiyaryu",
@@ -4586,8 +4234,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Cursedproved Demon",
             "cardcost": "53",
-            "cardAttribute": "Light",
-            "restriction": "Unlimited"
+            "cardAttribute": "Light"
         },
         {
             "name": "Sengenjin",
@@ -4599,8 +4246,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Male Elemental",
             "cardcost": "52",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Serpent Night Dragon",
@@ -4612,8 +4258,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Reach Terrain night Darkness Dark Shadow",
             "cardcost": "52",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Seven Tools of the Bandit",
@@ -4625,8 +4270,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Trigger negate destroy Trap",
             "cardcost": "30",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "cardAttribute": "Trap"
         },
         {
             "name": "Shadow Ghoul",
@@ -4638,8 +4282,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Gy Graveyard increase",
             "cardcost": "36",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Shadow of Seduction",
@@ -4651,8 +4294,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP Female Male battlelocked",
             "cardcost": "30",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Shadow Specter",
@@ -4664,8 +4306,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "increase",
             "cardcost": "7",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "cardAttribute": "Shadow"
         },
         {
             "name": "Shadow Spell",
@@ -4677,8 +4318,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP decrease battlelocked",
             "cardcost": "40",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Shield & Sword",
@@ -4690,8 +4330,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "change",
             "cardcost": "30",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Sickle Killer",
@@ -4703,8 +4342,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land Summon Insect",
             "cardcost": "26",
-            "cardAttribute": "Wilderness",
-            "restriction": "Unlimited"
+            "cardAttribute": "Wilderness"
         },
         {
             "name": "Silver Bow and Arrow",
@@ -4716,8 +4354,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "EQUIP Fairy Reach",
             "cardcost": "15",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "cardAttribute": "Spell"
         },
         {
             "name": "Silver Fang",
@@ -4729,8 +4366,7 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Land damage",
             "cardcost": "20",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "cardAttribute": "Earth"
         },
         {
             "name": "Skelengel",
@@ -4742,515 +4378,475 @@ const LegendOfTheDuelist = {
             "deck": "A",
             "keyword": "Fly Flip draw",
             "cardcost": "13",
-            "cardAttribute": "Light",
-            "restriction": "Unlimited"
+            "cardAttribute": "Light"
         },
         {
             "name": "Skull Guardian",
-            "frame": "Ritual",
-            "types": "Warrior",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-366",
             "image": "./cards/Legendoftheduelist/Skull Guardian.png",
-            "deck": "B",
-            "keyword": "Land Light Demon",
-            "cardcost": "0",
-            "cardAttribute": "Light",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Skull Red Bird",
-            "frame": "Monster",
-            "types": "Winged-Beast ",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-367",
             "image": "./cards/Legendoftheduelist/Skull Red Bird.png",
-            "deck": "A",
-            "keyword": "Fly destory Wind",
-            "cardcost": "28",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Skull Servant",
-            "frame": "Monster",
-            "types": "Undead",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-368",
             "image": "./cards/Legendoftheduelist/Skull Servant.png",
-            "deck": "A",
-            "keyword": "Land Flip increase",
-            "cardcost": "5",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Skull Stalker",
-            "frame": "Monster",
-            "types": "Warrior Insect",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-369",
             "image": "./cards/Legendoftheduelist/Skull Stalker.png",
-            "deck": "A",
-            "keyword": "Land poisoned",
-            "cardcost": "17",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Skullbird",
-            "frame": "Monster",
-            "types": "Winged-Beast",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-370",
             "image": "./cards/Legendoftheduelist/Skullbird.png",
-            "deck": "A",
-            "keyword": "Fly Piercing unaffected Deathtouch",
-            "cardcost": "36",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Sky Dragon",
-            "frame": "Monster",
-            "types": "Dragon",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-371",
             "image": "./cards/Legendoftheduelist/Sky Dragon.png",
-            "deck": "A",
-            "keyword": "Fly Airborn Earth Land Piercing",
-            "cardcost": "37",
-            "cardAttribute": "Wind",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Slot Machine",
-            "frame": "Monster",
-            "types": "Machine",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-372",
             "image": "./cards/Legendoftheduelist/Slot Machine.png",
-            "deck": "A",
-            "keyword": "Land Reach Heavy Magicarmor Dice",
-            "cardcost": "43",
-            "cardAttribute": "Machine",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Solitude",
-            "frame": "Monster",
-            "types": "Beast-Warrior",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-373",
             "image": "./cards/Legendoftheduelist/Solitude.png",
-            "deck": "A",
-            "keyword": "Land Male stun battlelocked Spellbinding",
-            "cardcost": "21",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Soul of the Pure",
-            "frame": "Spell",
-            "types": "Normal Spell",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-374",
             "image": "./cards/Legendoftheduelist/Soul of the Pure.png",
-            "deck": "A",
-            "keyword": "Heal",
-            "cardcost": "8",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Soul Release ",
-            "frame": "Spell",
-            "types": "Normal Spell",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-375",
             "image": "./cards/Legendoftheduelist/Soul Release .png",
-            "deck": "A",
-            "keyword": "banish",
-            "cardcost": "5",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Sparks",
-            "frame": "Spell",
-            "types": "Normal Spell ",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-376",
             "image": "./cards/Legendoftheduelist/Sparks.png",
-            "deck": "A",
-            "keyword": "inflict damage",
-            "cardcost": "5",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Spellbinding Circle",
-            "frame": "Trap",
-            "types": "Equip Trap",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-377",
             "image": "./cards/Legendoftheduelist/Spellbinding Circle.png",
-            "deck": "A",
-            "keyword": "Trigger EQUIP battlelocked",
-            "cardcost": "35",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Spike Seadra",
-            "frame": "Monster",
-            "types": "SeaSerpent",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-378",
             "image": "./cards/Legendoftheduelist/Spike Seadra.png",
-            "deck": "A",
-            "keyword": "Aquatic Resistance Electric Thunder increase",
-            "cardcost": "39",
-            "cardAttribute": "Water",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Spikebot",
-            "frame": "Monster",
-            "types": "Machine",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-379",
             "image": "./cards/Legendoftheduelist/Spikebot.png",
-            "deck": "A",
-            "keyword": "Land Heavy Magicarmor Machine Piercing",
-            "cardcost": "35",
-            "cardAttribute": "Machine",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Spirit of the Harp",
-            "frame": "Monster",
-            "types": "Fairy",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-380",
             "image": "./cards/Legendoftheduelist/Spirit of the Harp.png",
-            "deck": "A",
-            "keyword": "Land Female increase",
-            "cardcost": "28",
-            "cardAttribute": "Light",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Steel Scorpion",
-            "frame": "Monster",
-            "types": "Machine",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-381",
             "image": "./cards/Legendoftheduelist/Steel Scorpion.png",
-            "deck": "A",
-            "keyword": "Land Poison Stun battlelocked Spellbinding destory",
-            "cardcost": "10",
-            "cardAttribute": "Machine",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Steel Shell",
-            "frame": "Spell",
-            "types": "Equip Spell ",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-382",
             "image": "./cards/Legendoftheduelist/Steel Shell.png",
-            "deck": "A",
-            "keyword": "EQUIP Water Armor",
-            "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Stone Armadiller",
-            "frame": "Monster",
-            "types": "Elemental",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-383",
             "image": "./cards/Legendoftheduelist/Stone Armadiller.png",
-            "deck": "A",
-            "keyword": "Land Armor Earth Elemental",
-            "cardcost": "20",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Stop Defense",
-            "frame": "Trap",
-            "types": "Contunious Trap",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-384",
             "image": "./cards/Legendoftheduelist/Stop Defense.png",
-            "deck": "A",
-            "keyword": "TRIGGER Posiition",
-            "cardcost": "50",
-            "cardAttribute": "Trap",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Succubus Knight",
-            "frame": "Monster",
-            "types": "Warrior Demon",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-385",
             "image": "./cards/Legendoftheduelist/Succubus Knight.png",
-            "deck": "A",
-            "keyword": "Land Female Male Hypnotized",
-            "cardcost": "39",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Suga",
-            "frame": "Monster",
-            "types": "Demon",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-386",
             "image": "./cards/Legendoftheduelist/Suga.png",
-            "deck": "A",
-            "keyword": "Reach StormGuardian Amphibic negate Terrain Water",
-            "cardcost": "57",
-            "cardAttribute": "Water",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Summoned Skull",
-            "frame": "Monster",
-            "types": "Demon",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-387",
             "image": "./cards/Legendoftheduelist/Summoned Skull.png",
-            "deck": "A",
-            "keyword": "Reach Electric Dampened GridField",
-            "cardcost": "47",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Super War-Lion",
-            "frame": "Ritual",
-            "types": "Beast",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-388",
             "image": "./cards/Legendoftheduelist/Super War-Lion.png",
-            "deck": "B",
-            "keyword": "Land Deathtouch pay destroyed",
-            "cardcost": "0",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Swamp Battleguard",
-            "frame": "Monster",
-            "types": "Beast-Warrior",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-389",
             "image": "./cards/Legendoftheduelist/Swamp Battleguard.png",
-            "deck": "A",
-            "keyword": "Land increase",
-            "cardcost": "33",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Sword Hunter",
-            "frame": "Monster",
-            "types": "Warrior",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-390",
             "image": "./cards/Legendoftheduelist/Sword Hunter.png",
-            "deck": "A",
-            "keyword": "Land Male equip increase",
-            "cardcost": "46",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Sword of Dark Destruction",
-            "frame": "Spell",
-            "types": "Equip Spell ",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-391",
             "image": "./cards/Legendoftheduelist/Sword of Dark Destruction.png",
-            "deck": "A",
-            "keyword": "EQUIP Demon",
-            "cardcost": "10",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Sword Stalker of Revenge",
-            "frame": "Monster",
-            "types": "Warrior Demon",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-392",
             "image": "./cards/Legendoftheduelist/Sword Stalker of Revenge.png",
-            "deck": "A",
-            "keyword": "Land increase Gy Graveyard",
-            "cardcost": "46",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Swords of Revealing Light",
-            "frame": "Spell",
-            "types": "Normal Spell",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-393",
             "image": "./cards/Legendoftheduelist/Swords of Revealing Light.png",
-            "deck": "A",
-            "keyword": "battlelocked idle",
-            "cardcost": "50",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Swordsaurus",
-            "frame": "Monster",
-            "types": " Dinosaur",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-394",
             "image": "./cards/Legendoftheduelist/Swordsaurus.png",
-            "deck": "A",
-            "keyword": "land Reach Equip Spell return",
-            "cardcost": "38",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Synchar",
-            "frame": "Monster",
-            "types": "Beast",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-395",
             "image": "./cards/Legendoftheduelist/Synchar.png",
-            "deck": "A",
-            "keyword": "Land Lifelink Warrior Piercing",
-            "cardcost": "17",
-            "cardAttribute": "Earth",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Terra the Terrible",
-            "frame": "Monster",
-            "types": "Demon",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-396",
             "image": "./cards/Legendoftheduelist/Terra the Terrible.png",
-            "deck": "A",
-            "keyword": "land Illusion Piercing",
-            "cardcost": "25",
-            "cardAttribute": "Shadow",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "Terraforming",
-            "frame": "Spell",
-            "types": "Normal Spell",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-397",
             "image": "./cards/Legendoftheduelist/Terraforming.png",
-            "deck": "A",
-            "keyword": "Terrain",
-            "cardcost": "35",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "That Which Feeds on Life",
-            "frame": "Monster",
-            "types": "Demon",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-398",
             "image": "./cards/Legendoftheduelist/That Which Feeds on Life.png",
-            "deck": "A",
-            "keyword": "Fly heal",
-            "cardcost": "22",
-            "cardAttribute": "Fire",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "The 13th Grave",
-            "frame": "Monster",
-            "types": "Undead",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-399",
             "image": "./cards/Legendoftheduelist/The 13th Grave.png",
-            "deck": "A",
-            "keyword": "land Curse decrease",
-            "cardcost": "21",
-            "cardAttribute": "Dark",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "The Bewitching Phantom",
-            "frame": "Monster",
-            "types": "Spellcaster",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-400",
             "image": "./cards/Legendoftheduelist/The Bewitching Phantom.png",
-            "deck": "A",
-            "keyword": "Land Male Trigger effects",
-            "cardcost": "14",
-            "cardAttribute": "Illusion",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "The Drdek",
-            "frame": "Monster",
-            "types": "Demon",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-401",
             "image": "./cards/Legendoftheduelist/The Drdek.png",
-            "deck": "A",
-            "keyword": "Land Flip change Posiition",
-            "cardcost": "15",
-            "cardAttribute": "Illusion",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "The Eye of Truth",
-            "frame": "Spell",
-            "types": "Normal Spell",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-402",
             "image": "./cards/Legendoftheduelist/The Eye of Truth.png",
-            "deck": "A",
-            "keyword": "Hand reveal",
-            "cardcost": "25",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "The Furious Sea King",
-            "frame": "Monster",
-            "types": "Aqua",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-403",
             "image": "./cards/Legendoftheduelist/The Furious Sea King.png",
-            "deck": "A",
-            "keyword": "Aquatic Male Earth Terrain Umi",
-            "cardcost": "15",
-            "cardAttribute": "Water",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "The Inexperienced Spy",
-            "frame": "Spell",
-            "types": "Normal Spell",
+            "frame": "",
+            "types": " ",
             "set": "01-Legend of the Duelist",
             "cardid": "LOD-404",
             "image": "./cards/Legendoftheduelist/The Inexperienced Spy.png",
-            "deck": "A",
-            "keyword": "hand see",
-            "cardcost": "5",
-            "cardAttribute": "Spell",
-            "restriction": "Unlimited"
+            "deck": "",
+            "keyword": "",
+            "cardcost": "",
+            "cardAttribute": ""
         },
         {
             "name": "The Melting Red Shadow",
@@ -5262,8 +4858,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "The Shadow Who Controls the Dark",
@@ -5275,8 +4870,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Thousand Dragon",
@@ -5288,8 +4882,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Thunder Dragon",
@@ -5301,8 +4894,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Thunder Kid",
@@ -5314,8 +4906,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Thunder Unicorn",
@@ -5327,8 +4918,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Tiger Axe",
@@ -5340,8 +4930,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Time Wizard",
@@ -5353,8 +4942,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "TM-1 Launcher Spider",
@@ -5366,8 +4954,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Tomozaurus",
@@ -5379,8 +4966,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Trakadon",
@@ -5392,8 +4978,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Trap Hole of Spikes",
@@ -5405,8 +4990,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Trap Hole",
@@ -5418,8 +5002,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Trap Master",
@@ -5431,8 +5014,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Trent",
@@ -5444,8 +5026,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Tri-Horned Dragon",
@@ -5457,8 +5038,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Tribute to the Doomed",
@@ -5470,8 +5050,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Twin-Headed Fire Dragon",
@@ -5483,8 +5062,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Twin-Headed Thunder Dragon",
@@ -5496,10 +5074,9 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Fly",
             "cardcost": "0",
-            "cardAttribute": "Electric",
-            "restriction": "Unlimited"
+            "cardAttribute": "Electric"
         },
-        {
+		{
             "name": "Twin-Headed Thunder Dragon",
             "frame": "Fusion",
             "types": "Dragon Thunder ",
@@ -5509,8 +5086,7 @@ const LegendOfTheDuelist = {
             "deck": "B",
             "keyword": "Fly",
             "cardcost": "0",
-            "cardAttribute": "Electric",
-            "restriction": "Unlimited"
+            "cardAttribute": "Electric"
         },
         {
             "name": "Two-Headed King Rex",
@@ -5522,8 +5098,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Two-Pronged Attack ",
@@ -5535,8 +5110,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Ultimate Insect Caterpillar",
@@ -5548,8 +5122,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Ultimate Insect Isoptera",
@@ -5561,8 +5134,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Ultimate Insect Larva",
@@ -5574,8 +5146,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Ultimate Insect Terror",
@@ -5587,8 +5158,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Undead Warrior",
@@ -5600,8 +5170,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Uraby",
@@ -5613,8 +5182,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Ushi Oni",
@@ -5626,8 +5194,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Vermillion Sparrow",
@@ -5639,8 +5206,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Vermin Eradicating",
@@ -5652,8 +5218,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Vile Germs",
@@ -5665,8 +5230,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Violet Crystal",
@@ -5678,8 +5242,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Violet Witch",
@@ -5691,8 +5254,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Waboku",
@@ -5704,8 +5266,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "War Lion Ritual",
@@ -5717,8 +5278,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Warrior Elimination",
@@ -5730,8 +5290,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Warrior of Zera",
@@ -5743,8 +5302,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Weather Report",
@@ -5756,8 +5314,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Wings of Wicked Flame",
@@ -5769,8 +5326,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Witch of the Black Forest",
@@ -5782,8 +5338,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Witty Phantom",
@@ -5795,8 +5350,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Wrath of the Thunder God",
@@ -5808,8 +5362,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Yamadron",
@@ -5821,8 +5374,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Yamatano Dragon Scroll",
@@ -5834,8 +5386,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Zanki",
@@ -5847,8 +5398,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Zera Ritual",
@@ -5860,8 +5410,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Zera the Mant",
@@ -5873,8 +5422,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "Zoa",
@@ -5886,8 +5434,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "",
@@ -5899,8 +5446,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "",
@@ -5912,8 +5458,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "",
@@ -5925,8 +5470,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "",
@@ -5938,8 +5482,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "",
@@ -5951,8 +5494,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "",
@@ -5964,8 +5506,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "",
@@ -5977,8 +5518,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         },
         {
             "name": "",
@@ -5990,8 +5530,7 @@ const LegendOfTheDuelist = {
             "deck": "",
             "keyword": "",
             "cardcost": "",
-            "cardAttribute": "",
-            "restriction": "Unlimited"
+            "cardAttribute": ""
         }
     ]
 };

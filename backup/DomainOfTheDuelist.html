@@ -21,9 +21,7 @@
             </div>
             <div class="filters">
                 <input type="text" id="nameFilter" placeholder="Filter by card name">
-                <select id="attributeFilter">
-    <option value="">Every Attribute</option>
-</select>
+                <input type="text" id="attributeFilter" placeholder="Filter by card attribute">
                 <input type="text" id="keywordFilter" placeholder="Filter by keyword">
                 <input type="text" id="typeFilter" placeholder="Filter by types">
 				<input type="text" id="DeckcostFilter" placeholder="Filter by Deckcost">
@@ -184,56 +182,48 @@
         //#################
 
         function initializeFilters() {
-    const sets = [...new Set(cardsData.map(card => card.set))];
-    const frames = [...new Set(cardsData.map(card => card.frame))].sort();
-    const attributes = [...new Set(cardsData.map(card => card.cardAttribute))].sort();
-    const setFilter = document.getElementById('setFilter');
-    const frameFilter = document.getElementById('frameFilter');
-    const attributeFilter = document.getElementById('attributeFilter');
-    
-    sets.forEach(set => {
-        const option = document.createElement('option');
-        option.value = set;
-        option.textContent = set;
-        setFilter.appendChild(option);
-    });
-    
-    frames.forEach(frame => {
-        const option = document.createElement('option');
-        option.value = frame;
-        option.textContent = frame;
-        frameFilter.appendChild(option);
-    });
-    
-    attributes.forEach(attribute => {
-        const option = document.createElement('option');
-        option.value = attribute;
-        option.textContent = attribute;
-        attributeFilter.appendChild(option);
-    });
-}
+            const sets = [...new Set(cardsData.map(card => card.set))];
+            const frames = [...new Set(cardsData.map(card => card.frame))].sort();
 
-      function applyFilters() {
-    const nameFilter = document.getElementById('nameFilter').value.toLowerCase();
-    const attributeFilterValue = document.getElementById('attributeFilter').value;
-    const keywordFilter = document.getElementById('keywordFilter').value.toLowerCase();
-    const typeFilter = document.getElementById('typeFilter').value.toLowerCase();
-    const deckcostFilter = document.getElementById('DeckcostFilter').value.toLowerCase();
-    const setFilterValue = document.getElementById('setFilter').value;
-    const frameFilterValue = document.getElementById('frameFilter').value;
-    
-    filteredCards = cardsData.filter(card => {
-        return card.name.toLowerCase().includes(nameFilter) &&
-            card.keyword.toLowerCase().includes(keywordFilter) &&
-            card.types.toLowerCase().includes(typeFilter) &&
-            card.cardcost.toLowerCase().includes(deckcostFilter) &&
-            (!setFilterValue || card.set === setFilterValue) &&
-            (!frameFilterValue || card.frame === frameFilterValue) &&
-            (!attributeFilterValue || card.cardAttribute === attributeFilterValue);
-    });
-    
-    renderCards();
-}
+            const setFilter = document.getElementById('setFilter');
+            const frameFilter = document.getElementById('frameFilter');
+
+            sets.forEach(set => {
+                const option = document.createElement('option');
+                option.value = set;
+                option.textContent = set;
+                setFilter.appendChild(option);
+            });
+
+            frames.forEach(frame => {
+                const option = document.createElement('option');
+                option.value = frame;
+                option.textContent = frame;
+                frameFilter.appendChild(option);
+            });
+        }
+
+        function applyFilters() {
+            const nameFilter = document.getElementById('nameFilter').value.toLowerCase();
+            const attributeFilter = document.getElementById('attributeFilter').value.toLowerCase();
+            const keywordFilter = document.getElementById('keywordFilter').value.toLowerCase();
+            const typeFilter = document.getElementById('typeFilter').value.toLowerCase();
+			const DeckcostFilter = document.getElementById('DeckcostFilter').value.toLowerCase();
+            const setFilter = document.getElementById('setFilter').value;
+            const frameFilter = document.getElementById('frameFilter').value;
+
+            filteredCards = cardsData.filter(card => {
+                return card.name.toLowerCase().includes(nameFilter) &&
+                    card.cardAttribute.toLowerCase().includes(attributeFilter) &&
+                    card.keyword.toLowerCase().includes(keywordFilter) &&
+                    card.types.toLowerCase().includes(typeFilter) &&
+					card.cardcost.toLowerCase().includes(DeckcostFilter) &&
+                    (!setFilter || card.set === setFilter) &&
+                    (!frameFilter || card.frame === frameFilter);
+            });
+
+            renderCards();
+        }
 
         // Check and apply URL Set filter (filter by set directly on the url)
         function checkUrlFilter() {
